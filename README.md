@@ -1,4 +1,29 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+This is react-github-api-app developed using React Js.
+web application that retrieves and displays the user's repositories and organizations that he/she belongs to in Github
+
+Additional features
+Implement at least four features from this list.
+
+Use only hooks and functional components
+Some sort of Unit Testing
+Some sort of Integration Testing
+Having a nice UI
+Adding a global state management (Redux)
+
+node and ( npm or yarn )
+
+git clone https://github.com/priyangamani/react-github-api-app
+
+Prerequisites Node.js >= v4 must be installed.
+
+cd eact-github-api-app if you using npm
+
+npm install if you using yarn
+
+yarn if all depedencies is installed, and than run it on android / ios
+
+
 
 ## Available Scripts
 
