@@ -17,7 +17,7 @@ git clone https://github.com/priyangamani/react-github-api-app
 
 Prerequisites Node.js >= v4 must be installed.
 
-cd eact-github-api-app if you using npm
+cd react-github-api-app if you using npm
 
 npm install if you using yarn
 
